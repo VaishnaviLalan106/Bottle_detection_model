@@ -1,6 +1,7 @@
 # 🍾 Bottle Detection AI
 
-A sleek, modern web application powered by **TensorFlow** and **Flask** that identifies bottles in images with high precision.
+A sleek, modern web application powered by **TensorFlow** and **Flask** that identifies bottles in images (camera clicked ones ) 
+Its a very small model and works only with bottle detection. It has few errors maybe like it wont detect high quality bottle images, only recognices camera clciked blurred effect of bottle images clicked from my phone.
 
 ## 🌟 Features
 
