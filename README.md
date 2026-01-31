@@ -2,8 +2,6 @@
 
 A sleek, modern web application powered by **TensorFlow** and **Flask** that identifies bottles in images with high precision.
 
-![Bottle Detection UI Mockup](https://raw.githubusercontent.com/VaishnaviLalan106/Bottle_detection_model/main/static/images/hero.png)
-
 ## 🌟 Features
 
 - **Real-time AI Inference**: Uses a pre-trained Keras model (`.h5`) for instant bottle detection.
@@ -50,7 +48,8 @@ A sleek, modern web application powered by **TensorFlow** and **Flask** that ide
 
 4. **Run the Application**
    ```bash
-   python app.py
+   python app.py or
+   en\Scripts\python app.py
    ```
 
 5. **Access the App**
